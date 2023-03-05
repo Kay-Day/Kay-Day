@@ -15,6 +15,26 @@
 
 ⚡ Fun fact: Besides coding and Japanese , I like swimming and taking pictures
 
+日本語 
+
+![image](https://user-images.githubusercontent.com/92531311/222974666-1ea3c4fc-84cd-4abc-b0c6-60b22476616d.png)
+
+🔭 大学2年生
+
+🌱 私はベトナムのダナン市にいます
+
+👯 私の夢は日本でプログラマーになることです
+
+💻 私は現在すべてを学んでいます
+
+📑 フリーランスの仕事はいつでも受け付けています
+
+📫 日本語とプログラミングが大好き
+
+😄 実はシステムソフトに一番興味があります!!
+
+⚡ 豆知識: コーディングと日本語の他に、水泳と写真を撮るのが好きです
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Kaykaier) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kaiin57/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@raumuong1231) 
 
