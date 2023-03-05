@@ -1,11 +1,18 @@
 # 💫About Me :
 🔭 I'm currently a 2nd year student
+
 🌱 I'm in Da Nang city, Vietnam
+
 👯 My dream is to be a programmer in Japan
+
 💻 I’m currently learning everything
+
 📑 I’m always open to freelance jobs
+
 📫 I love Japanese and Programming
+
 😄 Actually, I'm interested in system software  the most !!
+
 ⚡ Fun fact: Besides coding and Japanese , I like swimming and taking pictures
 
 ## 🌐Socials
