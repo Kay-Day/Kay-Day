@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nhu Nghia</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam  </h3>
+  
+  ![image](https://user-images.githubusercontent.com/92531311/222977511-b1d28cae-b36a-45d9-a3dc-8395d79a9d27.png)
+  ![image](https://user-images.githubusercontent.com/92531311/222977600-2837ef94-3be2-478c-a902-9d6f07af97ae.png)
+
 </p>
+
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=600&lines=Japanese+Sofware+Engineering+and+Researcher;Mobile+Application+Developer;Feel+free+to+contact+me+for+cooperation)
 
@@ -69,8 +75,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kay-Day&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Kay-Day" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kay-Day&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="Kay-Day" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kay-Day&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20Used%20Languages" alt="Kay-Day" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Kay-Day&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats" alt="Kay-Day" width="100%"/>
     </td>
     <td>
       <p align="center"> 
