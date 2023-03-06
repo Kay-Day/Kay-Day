@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nhu Nghia</h1>
 
-![316554601_2913257872315497_4054988524689569261_n](https://user-images.githubusercontent.com/92531311/223076404-4c3336e8-7436-423b-b415-facc761d670a.jpg)
+![316554601_2913257872315497_4054988524689569261_n](https://user-images.githubusercontent.com/92531311/223077811-e661efe0-ff39-4a91-b163-8f3a47299130.jpg)
+
 
 
 
