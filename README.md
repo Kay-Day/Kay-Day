@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nhu Nghia</h1>
+
+![316554601_2913257872315497_4054988524689569261_n](https://user-images.githubusercontent.com/92531311/223076404-4c3336e8-7436-423b-b415-facc761d670a.jpg)
+
+
+
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam  </h3>
   
